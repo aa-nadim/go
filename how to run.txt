@@ -9,3 +9,5 @@ $ ./hello-world
 hello world
 ________________________________
 go run values.go
+____________________________-
+go run variables.go
